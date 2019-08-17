@@ -16,6 +16,7 @@ Data Structures
  - Deque
  - Heap
  - Node
+ - Hash
  - Binary Search Tree
  - Disjoint Data Structure
 
