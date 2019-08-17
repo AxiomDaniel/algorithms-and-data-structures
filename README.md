@@ -22,3 +22,5 @@ Data Structures
 Algorithms 
 ---
 WIP
+
+Note: To anyone stumbling upon this, I am a novice, I write bad code. Please do not use this for your work or assignments.
